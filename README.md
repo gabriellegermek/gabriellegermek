@@ -1,5 +1,7 @@
 ## Hi there 👋
+💻 I'm a Master's student in UFRN (Ppg-Bioinfo)
 
+🌱 I'm currently learning coding in R
 <!--
 **gabriellegermek/gabriellegermek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
